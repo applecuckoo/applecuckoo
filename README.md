@@ -14,4 +14,4 @@ Check out my ripping progress in this [gist](https://gist.github.com/applecuckoo
 
 \- the LEGO City Undercover NPC known as COP9
 
-[a recording of the above quote](waffleiron.mp4)
+https://github.com/applecuckoo/applecuckoo/raw/main/waffleiron.mp4
