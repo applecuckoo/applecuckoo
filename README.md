@@ -9,9 +9,3 @@ Recently, I've been fiddling around with emulating and ripping, especially video
 I use Dolphin (the Wii emulator, not the file browser) and vgmstream with its Audacious extension (for the Linux sound rippers, yes, it's worth building from source) quite extensively, with a bit of ffmpeg for transcoding cutscenes.
 
 Check out my ripping progress in this [gist](https://gist.github.com/applecuckoo/3943b8d00508e2e78a4a31d3c683747b).
-
-> "If I make two more arrests this month, I win a waffle iron!"
-
-\- the LEGO City Undercover NPC known as COP9
-
-https://github.com/applecuckoo/applecuckoo/assets/113647417/57e374be-1f1a-4035-ab64-3db77501a135
