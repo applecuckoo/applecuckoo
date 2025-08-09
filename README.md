@@ -1,5 +1,5 @@
-# My little corner of the web
+# applecuckoo's GitHub account
 
-Hello! I'm applecuckoo, a young dude that's interested in many aspects of technology.
+this account is only being used as a 'satellite' (i.e. only being used to contribute to stuff hosted here)
 
-Currently, the most active interest for me is asset ripping, but I also keep an eye on FOSS apps and fonts.
+if you want to see my actual code, it's on Codeberg now: https://codeberg.org/applecuckoo
